@@ -1,9 +1,8 @@
-### Hi there 👋 
-### This is Fernando Roldán!
+### Hi, I'm Brendon and you can find me here:
 
 [![LinkTree](https://img.shields.io/badge/-LinkTree-green)](https://linktr.ee/donpsantos)
 
-Welcome to my Github page! My name is Brendon I am a .NET Core backend programmer.
+Welcome to my Github page! My name is Brendon Santos I am a .NET Core backend programmer.
 
 <img align="right" alt="img" src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2018/04/05114901/ORLEANS-NET-CORE.png" width="50%" height="auto" />
 
