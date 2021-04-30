@@ -22,7 +22,7 @@ Welcome to my Github page! My name is Brendon Santos I am a .NET Core backend pr
 
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"></code>
-<code><img width="8%" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg"></code>
+<code><img width="10%" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg"></code>
 <br />
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/GitHub_font_awesome.svg"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg"></code>
