@@ -4,7 +4,7 @@
 
 Welcome to my Github page! My name is Brendon Santos I am a .NET Core backend programmer.
 
-<img align="right" alt="img" src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2018/04/05114901/ORLEANS-NET-CORE.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://raw.githubusercontent.com/DonPSantos/DonPSantos/main/csharp_dotnetcore.png" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
@@ -19,6 +19,8 @@ Welcome to my Github page! My name is Brendon Santos I am a .NET Core backend pr
 
 #### :computer: Programming languages and tools: 
 <p>
+
+<img align="right" alt="img" src="https://raw.githubusercontent.com/DonPSantos/DonPSantos/main/gamer.jpg" width="50%" height="auto" />
 
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"></code>
 <code><img width="10%" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg"></code>
