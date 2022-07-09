@@ -1,6 +1,6 @@
 ### Hi, I'm Brendon and you can find me here:
 
-[![LinkTree](https://img.shields.io/badge/-LinkTree-green)](https://linktr.ee/donpsantos)
+[![Beacons](https://img.shields.io/badge/-Beacons-9cf)](https://beacons.ai/donpsantos)
 
 Welcome to my Github page! My name is Brendon Santos I am a .NET Core backend programmer.
 
@@ -8,9 +8,8 @@ Welcome to my Github page! My name is Brendon Santos I am a .NET Core backend pr
 
 
 #### 🌱 Things I am currently working on: 
-- Providing service to [Itaú](https://www.itau.com.br/) on behalf of [TCS](https://www.tcs.com/)
-- Studying to become an excellent .Net Core developer by [Developer.io](https://desenvolvedor.io/)
-- Surviving a pandemic
+- Studying to become an excellent .Net Core developer
+- I survived the pandemic
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
